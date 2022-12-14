@@ -6,3 +6,11 @@ settings system
 3.Step: git config --lest - cheaking settings 
 4.Step: ssh-keygen - generation ssh key 
 5.Step: cat ~/.ssh/id_rsa.pub - taking ssh key 
+
+1. git init - initsialisation your directore to repository ( repository it s
+where we will work ) 
+2. git - repository 
+3. git add - file name or .(point) for helping git to see changing / all files 
+4. git commit -m " u re suck "  - creating version code with message 
+5. git remote add <name_of_remote> <ssh_key> - connecting local with online 
+6. git push name_of_remote <barnch_name> - sending version to github 
