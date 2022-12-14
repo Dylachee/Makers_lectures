@@ -1,0 +1,8 @@
+1.Step: suda apt install git - installation
+ ( git --version)  
+2.Step: congig --global user.name "nick-name"
+	config --global user.name "your e-mail"
+settings system 
+3.Step: git config --lest - cheaking settings 
+4.Step: ssh-keygen - generation ssh key 
+5.Step: cat ~/.ssh/id_rsa.pub - taking ssh key 
